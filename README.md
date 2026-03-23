@@ -1,8 +1,10 @@
-# Network-Diagnostics-PowerShell
-Network Diagnostics PowerShell script
+# System-Diagnostics-PowerShell
+System Diagnostics PowerShell script
 
 
 VERSION:
+
+0.0 - Changed to System Diagnotic Tool so that I can pull more informatino about a user and machine.
 
 0.2 - added the ability to use external DNS server(s) or the local DNS server(s).
 
